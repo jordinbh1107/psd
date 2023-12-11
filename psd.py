@@ -19,12 +19,11 @@ with Data:
    """)
    st.write('Proyek Sain Data')
    st.text("""
-            1. Mohammad Zainal Taufik 200411100167 
-            2. Gio Alpin Jeisa Tarigan 200411100199   
+            1. Toba Jordi Naibaho 190411100115
             """)
    st.subheader('Tentang Dataset')
    st.write ("""
-   Data yang kami gunakan adalah data time series pada Saham PT Bank Central Asia Tbk, datanya diambil dari sumber yang tersedia secara publik. Anda dapat mengakses data tersebut melalui tautan berikut ini.
+   Data yang saya gunakan adalah data time series pada Saham PT Bank Central Asia Tbk, datanya diambil dari sumber yang tersedia secara publik. Anda dapat mengakses data tersebut melalui tautan berikut ini.
    https://finance.yahoo.com/quote/BBCA.JK/history?p=BBCA.JK
    """)
    st.write ("""
